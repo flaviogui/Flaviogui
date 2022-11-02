@@ -3,4 +3,4 @@
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
 </br>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/ErickBezerrar/count.svg" /></p>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Flaviogui/count.svg" /></p>
